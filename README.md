@@ -1,5 +1,6 @@
 # [HTTP PROTOCOL](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
+HTTP is a client-server protocol: requests are sent by one entity (client) that most of the time is a Web browser. Each individual request is sent to a server, which handles it and provides an answer called the response. Between the client and the server there are numerous entities, collectively called proxies, which perform different operations and act as gateways or caches.
 
 ## HTTP PROTOCOL DIAGRAM 
 ![http.jpg](img%2Fhttp.jpg)
